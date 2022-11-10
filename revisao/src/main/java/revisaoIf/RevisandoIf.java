@@ -21,6 +21,9 @@ public class RevisandoIf {
 		}
 		System.out.println("Saldo atualizado R$" + saldoCliente);
 System.out.println("Estoque atual: " + quantidadeEstoque);
+
+
+//teste
 	}
 
 }
